@@ -1,6 +1,5 @@
 ## Olá Terráqueos e Extraterrestres 🖖🏽
 
-- 🔭 Atualmente estou procurando estágio
 - 🧑🏽‍💻 Estou estudando como codar em Golang (e as matérias do semestre rsrs)
 - 😄 Pronomes: Ele/Dele
 
